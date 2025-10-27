@@ -9,5 +9,3 @@ Here are some ideas to get you started:
 - 🌱 Currently investing a lot of time in cooking...
 - ⚡ Fun fact: Zu den Nebenwirkungen von Aspirin zählen Kopfschmerzen :3
 - 😄 Have a great day!
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leqndborgm)](https://github.com/anuraghazra/github-readme-stats)
